@@ -1,0 +1,6 @@
+2018-06-22 21:15:18.529 EDT [94229] LOG:  listening on IPv6 address "::1", port 5432
+2018-06-22 21:15:18.529 EDT [94229] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2018-06-22 21:15:18.531 EDT [94229] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2018-06-22 21:15:18.563 EDT [94231] LOG:  database system was shut down at 2018-06-22 21:08:38 EDT
+2018-06-22 21:15:18.575 EDT [94229] LOG:  database system is ready to accept connections
+2018-06-22 21:18:51.894 EDT [94302] FATAL:  database "maloriecasimir" does not exist
